@@ -50,3 +50,19 @@
   - action_retrieve_fees
 * mood_great
   - utter_goodbye
+
+## location greet path
+* greet
+  - utter_need_help
+* location
+  - utter_location
+* mood_great
+  - utter_goodbye
+
+## location path
+* location 
+  - utter_location
+* mood_great
+  - utter_goodbye
+
+

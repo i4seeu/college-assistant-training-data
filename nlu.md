@@ -72,3 +72,15 @@
 - i am a [local](student_category) student
 - [international](student_category)
 - [local](student_category)
+
+## intent:location
+- where are you located?
+- where are you  situated?
+- What is your location?
+- location
+- How can i find your college?
+- Where is [college of medicine](college_name) located
+- Where is [college of medicine](college_name) situated
+- What is the location of  [college of medicine](college_name)
+- I want to know your location
+
