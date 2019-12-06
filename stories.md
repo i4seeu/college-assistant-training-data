@@ -51,7 +51,6 @@
 * mood_great
   - utter_goodbye
 
-
 ## programme greet path
 * greet
   - utter_need_help
@@ -73,6 +72,20 @@
   - utter_level
 * indicate_level
   - action_retrieve_programmes
+* mood_great
+  - utter_goodbye
+
+## location greet path
+* greet
+  - utter_need_help
+* location
+  - utter_location
+* mood_great
+  - utter_goodbye
+
+## location path
+* location 
+  - utter_location
 * mood_great
   - utter_goodbye
 
