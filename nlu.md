@@ -72,3 +72,16 @@
 - i am a [local](student_category) student
 - [international](student_category)
 - [local](student_category)
+
+## intent:programmes
+- what programmes are on offer at [college of medicine](college_name)
+- what programmes do you offer
+- how many programmes does the university offer
+- what programmes can i enrol in at the university
+
+## intent:indicate_level
+- what [undergraduate](programme_level) programmes do you offer
+- what [postgraduate](programme_level) programmes do you offer
+- [undergraduate](programme_level)
+- [postgraduate](programme_level)
+

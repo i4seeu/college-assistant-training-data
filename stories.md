@@ -50,3 +50,29 @@
   - action_retrieve_fees
 * mood_great
   - utter_goodbye
+
+
+## programme greet path
+* greet
+  - utter_need_help
+* programmes
+  - utter_level
+* indicate_level
+  - action_retrieve_programmes
+* mood_great
+  - utter_goodbye
+
+## programme together with level path
+* programmes {"programme_level":"undergraduate"}
+  - action_retrieve_programmes
+* mood_great
+  - utter_goodbye
+
+## programme greet path
+* programmes
+  - utter_level
+* indicate_level
+  - action_retrieve_programmes
+* mood_great
+  - utter_goodbye
+

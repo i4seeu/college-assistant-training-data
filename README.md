@@ -1,2 +1,2 @@
 # college-assistant-training-data
-This is the repository for training data of the college assistang 
+This is the repository for training data of the college assistant
